@@ -1,0 +1,11 @@
+{
+  "name": "introduction-to-temporal",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "temporal-polyfill": "^0.0.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
